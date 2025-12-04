@@ -1,0 +1,7 @@
+{
+  "name": "DELE B2 Tutor IA",
+  "description": "An interactive AI tutor to practice speaking skills for the Spanish DELE B2 exam using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
